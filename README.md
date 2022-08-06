@@ -6,4 +6,4 @@ Converts two documents into vectors and calculates their similarity. The inner p
 
 We define cosine similarity mathematically as the dot product of the vectors divided by their magnitude. For example, if we have two vectors, A and B, the similarity between them is calculated as:
 
-$$ {{similarity(A, B)} = {cos(\alpha)}} = {A.B} \over {||A|| ||B||} $$
+$$ {{similarity(A, B)} = {cos(\alpha)}} = {{A.B} \ {||A|| ||B||}} $$
